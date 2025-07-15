@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Harjas!! 👋<br><br><br> 🧠 Computer Science Student at UMich<br> 💼 Ross Minor <br> 💻 Currently learning **TerraForm**<br> <br> <br><br>## 📫 Let's Connect<br><br>- [LinkedIn](https://www.linkedin.com/in/harjas-chahil-51418628a/)  <br>- Email: harjas@umich.edu
+## Hi, I'm Harjas!! 👋<br><br><br> 🧠 Computer Science Student at UMich<br> 💼 Ross Minor <br> <br> <br><br>## 📫 Let's Connect<br><br>- [LinkedIn](https://www.linkedin.com/in/harjas-chahil-51418628a/)  <br>- Email: harjas@umich.edu
 
 
 # 💻 Tech Stack:
