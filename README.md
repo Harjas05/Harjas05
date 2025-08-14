@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Harjas!! 👋<br><br><br> 🧠 Computer Science Student at UMich | Ross Minor | Interested in ML & Full-Stack Dev <br> <br> 📫 I'm excited to get to know you, Let's Connect!!<br><br>- [LinkedIn](https://www.linkedin.com/in/harjas-chahil-51418628a/)  <br>- Email: harjas@umich.edu <br> [Portfolio](https://snow-curiosity-666294.framer.app/)
+## Hi, I'm Harjas!! 👋<br><br><br> 🧠 Computer Science Student at UMich | Ross Minor | Interested in ML & Full-Stack Dev <br> <br> 📫 I'm excited to get to know you, Let's Connect!!<br><br>- [LinkedIn](https://www.linkedin.com/in/harjas-chahil-51418628a/)  <br>- Email: harjas@umich.edu <br>- [Portfolio](https://snow-curiosity-666294.framer.app/)
 
 
 # 💻 Tech Stack:
