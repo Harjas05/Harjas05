@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 **My Mission**
-I’m passionate about **building** scalable, user-centric software solutions that combine innovation with real-world impact!
+I’m passionate about building scalable, user-centric software solutions that combine innovation with real-world impact!
 
 ---
 
