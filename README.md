@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey, I'm Harjas — Software Engineer</h1>
 <p align="center">I build scalable, user-centric software that turns ideas into impact.</p>
+<p align="center">
+  <a href="https://snow-curiosity-666294.framer.app/" target="_blank"><b>🌐 Portfolio</b></a>
+</p>
 
 ---
 
