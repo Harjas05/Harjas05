@@ -1,5 +1,54 @@
-# 💫 About Me:
-**My mission**<br>I'm passionate about build scalable, user-centric software solutions that combine innovation with real-world impact! <br><br>**Experience**<br>Software Engineering Intern @ UM CAEN (2025)<br>Backend Developer @ NEXJE (2025)<br>Technology Lead @ IOTA Professional STEM + Business Fraternity (2025) <br>Logistics Specialist @ MHacks Hackathon (2025)<br>Full-Stack Software Developer @ Michigan Build & Launch (2024)<br><br>**Notable Projects**<br>**GrantAI**<br>Built an end-to-end, full-stack, cloud-native AI-powered grant compliance tool that automates proposal evaluation against NSF guidelines using GPT-4, LangChain, and RAG pipeline<br>Tech Stack: Flask, TypeScript, Python, OpenAI API, Docker, AWS Fargate & Lambda<br>Impact: Automation of the grant proposal compliance checking process & reduction in manual review time of 70% <br>**Custom text editor**<br><br>Features: Basic Text Editor<br><br>**🎓 Piazza Post Classifier**<br>Machine learning tool to categorize and organize educational forum posts<br><br>Features: Text classification, Bag-of-Words Model<br><br>**🖼️ Image Resizing**<br>Efficient image processing tool with resizing algorithm<br><br>Features: Resizing algorithm<br><br>**🕸️ Graph Traversal**<br>Graph algorithms and pathfinding<br><br>Features: MST, TSP, Dijkstra's<br><br>
+<h1 align="center">👋 Hey, I'm Harjas — Software Engineer</h1>
+<p align="center">I build scalable, user-centric software that turns ideas into impact.</p>
+
+---
+
+## 🚀 **My Mission**
+I’m passionate about **building** scalable, user-centric software solutions that combine innovation with real-world impact!
+
+---
+
+## 💼 **Experience**
+- **Software Engineering Intern — UM CAEN** (2025)  
+- **Backend Developer — NEXJE** (2025)  
+- **Technology Lead — IOTA Professional STEM + Business Fraternity** (2025)  
+- **Logistics Specialist — MHacks Hackathon** (2025)  
+- **Full-Stack Software Developer — Michigan Build & Launch** (2024)
+
+---
+
+## 🌟 **Notable Projects**
+
+### 🧠 **GrantAI**
+Built an end-to-end, full-stack, cloud-native **AI-powered grant compliance** tool that automates proposal evaluation against NSF guidelines using GPT-4, LangChain, and a RAG pipeline.  
+**Tech Stack:** `Flask` · `TypeScript` · `Python` · `OpenAI API` · `Docker` · `AWS Fargate & Lambda`  
+**Impact:** Automated compliance checks and **reduced manual review time by ~70%**.
+
+---
+
+### ✍️ **Custom Text Editor**
+A lightweight editor with essentials for quick writing.  
+**Features:** Basic text editing.
+
+---
+
+### 🎓 **Piazza Post Classifier**
+ML tool to categorize and organize educational forum posts.  
+**Features:** Text classification · Bag-of-Words model.
+
+---
+
+### 🖼️ **Image Resizing**
+Efficient image processing utility with a focus on performance.  
+**Features:** Optimized resizing algorithm.
+
+---
+
+### 🕸️ **Graph Traversal**
+Algorithm implementations and pathfinding utilities.  
+**Features:** MST · TSP · Dijkstra’s.
+
+---
 
 
 
